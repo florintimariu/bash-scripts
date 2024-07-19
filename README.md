@@ -9,4 +9,4 @@ This is a collection of scripts that I found useful or had fun making.
  ![ascii art of the name of the EndeavourOS distro](https://i.ibb.co/hYdytWy/Screenshot-from-2024-07-18-19-54-09.png)
 2. print_date_and_time
 A script that salutes the user and prints the current date and time.
-![exemplification of how the output of the script looks](https://ibb.co/Wv27DG4)
+![exemplification of how the output of the script looks]([https://ibb.co/Wv27DG4](https://i.ibb.co/VYqbHJc/image-2024-07-19-165655836.png))
